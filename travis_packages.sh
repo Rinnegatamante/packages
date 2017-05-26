@@ -19,7 +19,7 @@ b libftpvita
 b henkaku
 b taihen
 b libk
-#b libpsp2shell
+b libpsp2shell
 b libdebugnet
 b onigmo
 b sdl2
@@ -34,3 +34,5 @@ b opus
 b unrar
 b glm
 b libxml2
+b speexdsp
+b pixman
